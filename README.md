@@ -4,6 +4,11 @@ A lightweight assembler that compiles `.c2asm` assembly source files into `.c2b`
 designed for the C² Virtual Machine (C2VM).  
 Ideal for assembling human-readable assembly code into executable bytecode for C² projects.
 
+<p align="center">
+  <img src= "https://cdn.discordapp.com/attachments/1153973442824118323/1384884686920089701/c2vmLogo.png?ex=68540ddf&is=6852bc5f&hm=086d39d04ccd84b89a7f09debe6fa70d441adb622082bc4f3468f8f23a417474&"/>
+</p>
+
+
 ---
 
 ## 🚀 Features
